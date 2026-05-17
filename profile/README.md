@@ -13,3 +13,4 @@ Multi-loader modding tooling should provide this value on `apiElements`, `runtim
 The following setups for multiloader modding are known to support these conventions:
 - [MultiLoader Template](https://github.com/jaredlll08/MultiLoader-Template/), as of [93c2f85](https://github.com/jaredlll08/MultiLoader-Template/commit/93c2f8575988cd110dc1c8073c5fb3e1a3335cfc)
 - [Cloche](https://github.com/terrarium-earth/cloche), as of 0.16.12 ([70eb29e](https://github.com/terrarium-earth/cloche/commit/70eb29ecb7aee85e117060409d0eb68aa2e91b64))
+- [modstitch-multiloader](https://github.com/isXander/modstitch-toolkit/blob/main/modstitch-multiloader/README.md)
